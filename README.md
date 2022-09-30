@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋
 
 <!--
 **Tnunesguarda/Tnunesguarda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## The snake is eating my contributions 🤭
+![snake gif](https://github.com/tnunesguarda/tnunesguarda/blob/output/github-contribution-grid-snake.gif)
