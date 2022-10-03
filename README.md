@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 -->
 
 ### The snake is eating my contributions 🤭
-![snake gif]([(https://raw.githubusercontent.com/Tnunesguarda/Tnunesguarda/bdaa85f55c4a91a6e650d29dece0c24a0a8ebcf3/.github/workflows/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/Tnunesguarda/Tnunesguarda/bdaa85f55c4a91a6e650d29dece0c24a0a8ebcf3/.github/workflows/github-contribution-grid-snake.svg)
